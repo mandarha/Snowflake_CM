@@ -1,2 +1,2 @@
 # infy_cma
-Sample repository for Infy CMA folks to learn Github
+Sample repository for to learn Github
